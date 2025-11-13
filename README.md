@@ -4,13 +4,17 @@
 ---
 
 ## 🔍 Overview
+
 **BD-LSC** (Bi-Directional Lexical Semantic Change) is a benchmark dataset for analyzing how word meanings **gain**, **lose**, or **remain stable** over time — across both **standard English** and **slang**.  
-It introduces a **bi-directional annotation scheme**, capturing the complex evolution of senses across **three time periods (T1, T2, T3)**.
+It introduces a **bi-directional annotation scheme**, capturing the evolution of word senses across **three time periods (T1, T2, T3)**.
 
 Unlike traditional lexical semantic change datasets that classify only “change” vs “no change,” BD-LSC explicitly distinguishes:
+
 - 🟢 **Sense Gain (SG)** – new meanings emerge  
 - 🔴 **Sense Loss (SL)** – old meanings fade  
 - ⚪ **Stable (NC)** – meanings remain unchanged  
+
+---
 
 ### 🧩 Why BD-LSC is Significant
 
@@ -22,13 +26,11 @@ Unlike traditional lexical semantic change datasets that classify only “change
 - 🔹 **Multi-label tagging scheme** — supports simultaneous gain/loss tracking and sense stability marking.  
 - 🔹 **High-quality human annotation** — Cohen’s κ ≈ 0.9 across time periods ensures reliability and inter-annotator consistency.  
 - 🔹 **Benchmark-ready design** — directly comparable with SemEval 2020, TempoWiC, and DWUG while extending beyond their two-period limitations.  
-- 🔹 **Open benchmark** — designed to test diachronic embedding models, contextual transformers, and semantic drift detection.  
+- 🔹 **Open benchmark for LLMs** — designed to test diachronic embeddings, contextual transformers, and semantic drift detection.  
 - 🔹 **Reflects real cultural change** — captures how digital communication and online culture reshape English semantics in both slang and standard registers.  
 
-
 ---
 
----
 ## 🧱 Dataset Composition
 
 | Period | Years | Source | Description |
@@ -44,38 +46,14 @@ Unlike traditional lexical semantic change datasets that classify only “change
 
 ---
 
-
-
 ## 💬 Target Words and Change Types
 
 The BD-LSC dataset contains **79 target lemmas**, each annotated across **T1–T2–T3** for sense change and accompanied by examples of both **standard** and **slang** usage.
 
 ---
 
-### Overview of Target Words and Semantic Change Labels (BD-LSC)
-This dataset presents an extended lexical semantic change resource that includes both **standard** and **slang** usages of English words across three time periods (T1–T3).  
-Each entry preserves *all raw senses* from the source sheet (“Words_lemmas_after_Filter”) and includes semantic change labels across temporal intervals.
-
----
-
 ### 🔍 Label Legend
-| Symbol | Meaning |
-|:-------|:--------|
-| 🟢 Gain | New sense(s) or extended usage appeared |
-| 🔴 Loss | Older sense(s) declined or disappeared |
-| ⚪ Stable | No significant change across the period |
 
----
-
-### 📘 Overview of Target Words and Semantic Change Labels (BD-LSC)
-# Lexical Semantic Change in Slang and Standard Usage (BD-LSC)
-
-This dataset presents an extended lexical semantic change resource that includes both standard and slang usages of English words across three time periods (T1–T3).  
-Each entry preserves all raw senses from the source sheet (“Words_lemmas_after_Filter”) and includes semantic change labels across temporal intervals.
-
----
-
-### 🔍 Label Legend
 | Symbol | Meaning |
 |:-------|:--------|
 | 🟢 Gain | New sense(s) or extended usage appeared |
@@ -173,6 +151,11 @@ Each entry preserves all raw senses from the source sheet (“Words_lemmas_after
 ### 📄 Citation
 
 
-)
+If you use **BD-LSC**, please cite:
+
+> **[ ]**   
+> Available at: [GitHub Repository Link]
+
+---
 
 
