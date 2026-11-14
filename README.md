@@ -151,10 +151,15 @@ The BD-LSC dataset contains **79 target lemmas**, each annotated across **T1–T
 ### 📄 Citation
 
 
-If you use **BD-LSC**, please cite:
+## 🔖 License
 
-> **[ ]**   
-> Available at: [GitHub Repository Link]
+Our original contributions are licensed under CC BY 4.0 (see [LICENSE](LICENSE)): the semantic change labels, the sense inventory as worded by the authors, the instance identifiers, and the released Tweet IDs.
+
+Third-party content is excluded from this licence:
+
+- **T1 and T2 (CCOHA):** the `text` column is released in lemmatised, randomised form only, following SemEval-2020 Task 1; the underlying corpus remains subject to the COHA terms of use (Davies, 2012).
+- **T3 (Twitter):** tweet texts are not redistributed; only Tweet IDs are released, for retrieval via the authorised X API under its developer terms.
+- **Dictionaries:** no verbatim dictionary entries or definitions are redistributed; these sources remain subject to their respective copyright.
 
 ---
 
