@@ -61,7 +61,7 @@ The BD-LSC dataset contains **79 target lemmas**, each annotated across **T1–T
 | ⚪ Stable | No significant change across the period |
 
 ---
-📘### Overview of Target Words and Semantic Change Labels (BD-LSC)
+### 📘 Overview of Target Words and Semantic Change Labels (BD-LSC)
 
 | # | Word | All Standard Meanings | All Slang Meanings | T1–T2 Label | T1–T3 Label | T2–T3 Label |
 |:-:|:------|:----------------------|:-------------------|:-------------|:-------------|:-------------|
