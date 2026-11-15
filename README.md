@@ -61,92 +61,88 @@ The BD-LSC dataset contains **79 target lemmas**, each annotated across **T1–T
 | ⚪ Stable | No significant change across the period |
 
 ---
-
-### 📘 Overview of Target Words and Semantic Change Labels (BD-LSC)
-
+📘 Overview of Target Words and Semantic Change Labels (BD-LSC)
 | # | Word | All Standard Meanings | All Slang Meanings | T1–T2 Label | T1–T3 Label | T2–T3 Label |
 |:-:|:------|:----------------------|:-------------------|:-------------|:-------------|:-------------|
 | 1 | abc | First three letters of the alphabet; basic concept | American Born Chinese; Australian-born Chinese; American Broadcasting Company | ⚪ Stable | 🟢 Gain | 🟢 Gain |
-| 2 | artichoke | A vegetable; edible plant | Oral sex using teeth; vagina; an old woman; a man; “to smoke” slang | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 3 | eat | To consume food | To give oral sex to a woman; to rob; to make money; to annoy; to destroy | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 4 | atm | Automated Teller Machine | “At the moment”; “Ass to mouth” (porn slang) | 🔴 Loss | 🟢 Gain | 🟢 Gain |
-| 5 | bam | Sudden loud noise | Scottish slang “Below Average Mentality”; interjection “Bam!”; to have sex | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 6 | battery | Device storing electricity | Jamaican slang for group sex; man using performance drugs; legal “battery” (assault) | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 7 | beetle | An insect | A flashy young woman; to hurry away; a Volkswagen car | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 8 | bing | Heap of ore; search engine | A dose of drugs; solitary confinement cell; money | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 9 | blender | Kitchen appliance | Fingering motion during sex; euphemism for sex; aggressive person | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 10 | bmw | Car brand | “Black Man’s Wish”; “Be My Wife”; “Black Magic Woman” | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 11 | bom | Brother; dude; friend | Bill of materials; exclamation of joy; attractive person | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 12 | bot | Robot; automatic program | Incompetent gamer; online AI; person with no individuality; “the buttocks” | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 13 | bouncer | Doorman; security guard | On-off partner; liar; large object | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 14 | breather | Brief pause; vent for air | Smoker in online meetings (“loud breather”) | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 15 | brownie | Chocolate dessert | Edible marijuana; “airhead” person; referring to brown-skinned people | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 16 | bush | Shrub; wilderness | Pubic hair; unsophisticated or rural person; to mug or ambush | 🟢 Gain | 🟢 Gain | ⚪ Stable |
-| 17 | cad | Dishonest man; scoundrel | “Computer Aided Design”; “Ctrl-Alt-Del”; “Cadillac” | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 18 | cheese | Dairy food | Money; marijuana; fake smile; nonsense; “the best”; bodily fluids | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 19 | cheesy | Tasting of cheese | Sentimental, corny; cheap or fake; slang for marijuana | 🟢 Gain | ⚪ Stable | ⚪ Stable |
-| 20 | chronic | Long-lasting (medical) | High-quality cannabis; “excellent” slang | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 21 | chump | Gullible person | Common worker; unsophisticated person | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 22 | climber | Person who climbs; plant that climbs | Social climber; cat burglar | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 23 | clip | Device for holding items | “Clip” a joint (weed + tobacco); to rob or kill; bundle of crack vials | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 24 | cooker | Appliance for cooking | Meth manufacturer; sexy person; euphemism for “high” | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 25 | cook | To prepare food | To make meth; to falsify; to kill; to perform exceptionally | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 26 | cool | Slightly cold; calm | Fashionable; trustworthy; “to die”; “to kill” | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 27 | cooler | Insulated container | Prison cell; drug-laced cigarette; “more cool” | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 28 | coon | Raccoon | Racial slur; sly person; goth makeup | 🔴 Loss | ⚪ Stable | ⚪ Stable |
-| 29 | crush | To squeeze; to destroy | Romantic attraction; soft drink; celebrity obsession | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 30 | cucumber | Vegetable | Penis | 🟢 Gain | 🟢 Gain | ⚪ Stable |
-| 31 | dap | Fist-bump greeting | Respect, acknowledgment, self-awareness; stylish | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 32 | dew | Water droplets | Sexual fluid; slang for Mountain Dew; marijuana | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 33 | dinosaur | Prehistoric reptile | Outdated person; heroin injection slang | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 34 | dip | To lower or submerge | To leave; pickpocket; drug user; stylish | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 35 | douche | Cleaning product | Foolish or arrogant person | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 36 | drag | To pull; theatrical clothing | Smoking; boring event; drag queen culture; public criticism | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 37 | dude | Man; person | Friendly greeting; “cool person”; stoner slang | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 38 | epic | Heroic poem | Remarkable; extreme; amazing | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 39 | fan | Enthusiast; mechanical device | “Fan out” = pickpocket; to search; to calm down | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 40 | femme | Woman | Feminine partner in LGBTQ+ context | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 41 | fig | Fruit | Genitals; derogatory slur; counterfeit coin; pickpocket | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 42 | flutter | Quick wing movement | Gamble; sexual adventure; gay man | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 43 | foam | Bubbles; froth | Beer; gamer anger slang (“foam”) | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 44 | frog | Amphibian | French person; condom; to cheat | 🟢 Gain | 🟢 Gain | ⚪ Stable |
-| 45 | gay | Cheerful; bright | Homosexual person; flamboyant; “stupid” (teen slang) | 🔴 Loss | 🟢 Gain | 🟢 Gain |
-| 46 | ghost | Spirit | To cut off contact; to leave secretly; to murder | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 2 | artichoke | A vegetable; edible plant | Oral sex using teeth; vagina; an old woman; a man; “to smoke” slang | ⚪ Stable | 🟢 Gain | 🟢 Gain |
+| 3 | atm | Automated Teller Machine | “At the moment”; “Ass to mouth” (porn slang) | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 4 | bam | Sudden loud noise | Scottish slang “Below Average Mentality”; interjection “Bam!”; to have sex | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 5 | battery | Device storing electricity | Jamaican slang for group sex; man using performance drugs; legal “battery” (assault) | ⚪ Stable | 🟢/🔴 Gain/Loss | 🟢/🔴 Gain/Loss |
+| 6 | beetle | An insect | A flashy young woman; to hurry away; a Volkswagen car | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 7 | bing | Heap of ore; search engine | A dose of drugs; solitary confinement cell; money | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 8 | blender | Kitchen appliance | Fingering motion during sex; euphemism for sex; aggressive person | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 9 | bmw | Car brand | “Black Man’s Wish”; “Be My Wife”; “Black Magic Woman” | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 10 | bot | Robot; automatic program | Incompetent gamer; online AI; person with no individuality; “the buttocks” | ⚪ Stable | 🟢 Gain | 🟢 Gain |
+| 11 | bouncer | Doorman; security guard | On-off partner; liar; large object | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 12 | breather | Brief pause; vent for air | Smoker in online meetings (“loud breather”) | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 13 | brownie | Chocolate dessert | Edible marijuana; “airhead” person; referring to brown-skinned people | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 14 | bush | Shrub; wilderness | Pubic hair; unsophisticated or rural person; to mug or ambush | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 15 | cheese | Dairy food | Money; marijuana; fake smile; nonsense; “the best”; bodily fluids | 🟢 Gain | 🟢/🔴 Gain/Loss | 🟢/🔴 Gain/Loss |
+| 16 | cheesy | Tasting of cheese | Sentimental, corny; cheap or fake; slang for marijuana | 🟢/🔴 Gain/Loss | 🟢 Gain | 🟢 Gain |
+| 17 | chronic | Long-lasting (medical) | High-quality cannabis; “excellent” slang | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 18 | chump | Gullible person | Common worker; unsophisticated person | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 19 | climber | Person who climbs; plant that climbs | Social climber; cat burglar | ⚪ Stable | 🟢 Gain | 🟢 Gain |
+| 20 | clip | Device for holding items | “Clip” a joint (weed + tobacco); to rob or kill; bundle of crack vials | 🟢/🔴 Gain/Loss | 🟢 Gain | 🟢 Gain |
+| 21 | cook | To prepare food | To make meth; to falsify; to kill; to perform exceptionally | 🟢 Gain | 🟢 Gain | 🟢/🔴 Gain/Loss |
+| 22 | cooker | Appliance for cooking | Meth manufacturer; sexy person; euphemism for “high” | ⚪ Stable | 🟢 Gain | 🟢 Gain |
+| 23 | cool | Slightly cold; calm | Fashionable; trustworthy; “to die”; “to kill” | ⚪ Stable | 🟢 Gain | 🟢 Gain |
+| 24 | cooler | Insulated container | Prison cell; drug-laced cigarette; “more cool” | 🔴 Loss | 🟢/🔴 Gain/Loss | 🟢 Gain |
+| 25 | coon | Raccoon | Racial slur; sly person; goth makeup | 🔴 Loss | ⚪ Stable | 🟢 Gain |
+| 26 | cosmo | Relating to the world/universe; a magazine; male given name | PCP (drug); fashionable/trendy | ⚪ Stable | 🟢 Gain | 🟢 Gain |
+| 27 | crush | To squeeze; to destroy | Romantic attraction; soft drink; celebrity obsession | 🟢 Gain | 🟢/🔴 Gain/Loss | 🟢/🔴 Gain/Loss |
+| 28 | cucumber | Vegetable | Penis | 🟢/🔴 Gain/Loss | 🟢 Gain | 🟢 Gain |
+| 29 | dinosaur | Prehistoric reptile | Outdated person; heroin injection slang | ⚪ Stable | 🟢 Gain | 🟢 Gain |
+| 30 | douche | Cleaning product | Foolish or arrogant person | 🟢 Gain | 🟢 Gain | 🔴 Loss |
+| 31 | drag | To pull; theatrical clothing | Smoking; boring event; drag queen culture; public criticism | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 32 | eat | To consume food | To give oral sex to a woman; to rob; to make money; to annoy; to destroy | ⚪ Stable | ⚪ Stable | ⚪ Stable |
+| 33 | epic | Heroic poem | Remarkable; extreme; amazing | ⚪ Stable | ⚪ Stable | ⚪ Stable |
+| 34 | fan | Enthusiast; mechanical device | “Fan out” = pickpocket; to search; to calm down | 🔴 Loss | 🔴 Loss | ⚪ Stable |
+| 35 | femme | Woman | Feminine partner in LGBTQ+ context | 🔴 Loss | ⚪ Stable | 🟢 Gain |
+| 36 | fig | Fruit | Genitals; derogatory slur; counterfeit coin; pickpocket | 🔴 Loss | 🟢/🔴 Gain/Loss | 🟢 Gain |
+| 37 | flutter | Quick wing movement | Gamble; sexual adventure; gay man | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 38 | foam | Bubbles; froth | Beer; gamer anger slang (“foam”) | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 39 | frog | Amphibian | French person; condom; to cheat | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 40 | garnish | Decorate food; legal: seize money via third party | An unlikeable hanger-on; add bling to an outfit; prison “garnish” fee; fetters; bribe | 🔴 Loss | 🟢/🔴 Gain/Loss | 🟢 Gain |
+| 41 | gash | A deep cut | Vagina; rubbish/useless (mil. slang); any woman; mouth; second helping; effeminate gay man; marijuana | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 42 | gasoline | Petroleum; fuel | Vodka + energy drink; hostile/aggro (slang) | 🟢/🔴 Gain/Loss | 🟢 Gain | 🟢 Gain |
+| 43 | gay | Cheerful; bright | Homosexual person; flamboyant; “stupid” (teen slang) | 🟢/🔴 Gain/Loss | 🟢 Gain | 🟢 Gain |
+| 44 | germ | Microorganism | Germ of an idea; insult; prison slang for cigarette | 🟢/🔴 Gain/Loss | 🟢 Gain | 🟢 Gain |
+| 45 | ghost | Spirit | To cut off contact; to leave secretly; to murder | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 46 | gook | — | Thick viscous matter; street-walker; dull/foolish person | 🔴 Loss | 🟢 Gain | 🟢 Gain |
 | 47 | gosh | Euphemism for “God” | Mild expression of surprise | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 48 | germ | Microorganism | Germ of an idea; insult; prison slang for cigarette | 🟢 Gain | ⚪ Stable | ⚪ Stable |
-| 49 | mammy | Mother figure | Racial stereotype; “abundance” slang | 🔴 Loss | 🟢 Gain | 🟢 Gain |
-| 50 | moose | Animal | Large person; unattractive woman; close friend | 🟢 Gain | 🟢 Gain | ⚪ Stable |
-| 51 | mug | Cup; face; to rob | Fool; victim; face; to trick; to kiss | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 52 | penguin | Flightless bird | Soulmate; nun; LSD drug | 🟢 Gain | 🟢 Gain | ⚪ Stable |
-| 53 | player | Game participant | Womanizer; manipulator; dealer | 🟢 Gain | 🟢 Gain | ⚪ Stable |
-| 54 | posse | Legal group | Crew; gang; one’s circle of friends | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 55 | psych | Psychology | To trick; to mentally prepare; to intimidate | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 56 | ratchet | Tool mechanism | Unrefined woman; wild behavior; pistol | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 57 | salty | Tasting of salt | Angry; bitter; crude language | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 58 | scum | Layer of dirt | Worthless person; semen | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 59 | cosmo | Relating to the world/universe; a magazine; male given name | PCP (drug); fashionable/trendy | ⚪ Stable | 🟢 Gain | 🟢 Gain |
-| 60 | garnish | Decorate food; legal: seize money via third party | An unlikeable hanger-on; add bling to an outfit; prison “garnish” fee; fetters; bribe | 🔴 Loss | 🟢/🔴 Gain/Loss | 🟢 Gain |
-| 61 | gash | A deep cut | Vagina; rubbish/useless (mil. slang); any woman; mouth; second helping; effeminate gay man; marijuana | 🔴 Loss | 🟢 Gain | 🟢 Gain |
-| 62 | gasoline | Petroleum; fuel | Vodka + energy drink; hostile/aggro (slang) | 🟢/🔴 Gain/Loss | 🟢 Gain | 🟢 Gain |
-| 63 | gook | — | Thick viscous matter; street-walker; dull/foolish person | 🔴 Loss | 🟢 Gain | 🟢 Gain |
-| 64 | grab | Seize; clutch device | Buy/steal; arrest; have sex; “grab” attention; comprehend | 🔴 Loss | 🔴 Loss | 🟢 Gain |
-| 65 | grade | Academic mark | Cannabis; money; “hot/fit” | 🟢/🔴 Gain/Loss | ⚪ Stable | 🟢/🔴 Gain/Loss |
-| 66 | grit | Courage; small hard particles | Cigarette/cocaine; “gross”; a white southerner; restaurant (“gritting place”); stop talking to inmate | 🔴 Loss | 🟢 Gain | 🟢 Gain |
-| 67 | hag | Witch or sorceress | Promiscuous young woman; woman with gay male best friend; hagfish | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 68 | hamburger | Ground-beef sandwich | Euphemistic expletive; “snack” (attractive person); stupid person | 🔴 Loss | 🟢/🔴 Gain/Loss | 🟢 Gain |
-| 69 | harp | Musical instrument | To talk tediously (“harp on”); Irish person in US; coin tail (“harp”) | 🟢/🔴 Gain/Loss | 🟢/🔴 Gain/Loss | 🟢 Gain |
-| 70 | hickey | Unnamed gadget/object; bruise | Country person; penis; rural/unsophisticated | 🔴 Loss | 🟢/🔴 Gain/Loss | 🟢 Gain |
-| 71 | hike | Long walk/journey | Raise/increase; steal/trick; arrest; go away; a punch | 🔴 Loss | 🟢 Gain | 🟢 Gain |
-| 72 | hive | Beehive; busy place | Vagina | 🔴 Loss | 🟢 Gain | 🟢 Gain |
-| 73 | huff | Bad temper | Inhale chemicals to get high; low-grade/crappy; bully/annoy | 🔴 Loss | 🟢 Gain | 🟢 Gain |
-| 74 | hun | — | Honey (term of endearment); derog. for German/Protestant in NI | 🟢 Gain | 🟢 Gain | 🟢 Gain |
-| 75 | hut | Crude dwelling; shack | Someone’s open-house hangout; “over/finished”; a cell | ⚪ Stable | 🔴 Loss | 🔴 Loss |
-| 76 | mosquito | Biting insect | Cocaine; “mosquito” as a pesty person | 🔴 Loss | ⚪ Stable | 🟢 Gain |
-| 77 | putty | Linseed compound; polishing powder | Vagina; easily influenced person; money; poor-quality hash | 🔴 Loss | 🟢 Gain | 🟢 Gain |
-| 78 | quaker | Member of Religious Society of Friends; duck making a “quack” | Extremely dim person; a hard/long stool | ⚪ Stable | ⚪ Stable | ⚪ Stable |
-| 79 | rad | Radiation dose unit | Intensifier: excellent/extreme/very | 🟢 Gain | 🟢 Gain | 🔴 Loss |
-
----
+| 48 | grab | Seize; clutch device | Buy/steal; arrest; have sex; “grab” attention; comprehend | 🔴 Loss | 🔴 Loss | 🟢 Gain |
+| 49 | grade | Academic mark | Cannabis; money; “hot/fit” | 🟢/🔴 Gain/Loss | ⚪ Stable | 🟢/🔴 Gain/Loss |
+| 50 | grit | Courage; small hard particles | Cigarette/cocaine; “gross”; a white southerner; restaurant (“gritting place”); stop talking to inmate | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 51 | hag | Witch or sorceress | Promiscuous young woman; woman with gay male best friend; hagfish | ⚪ Stable | ⚪ Stable | ⚪ Stable |
+| 52 | hamburger | Ground-beef sandwich | Euphemistic expletive; “snack” (attractive person); stupid person | 🔴 Loss | 🟢/🔴 Gain/Loss | 🟢 Gain |
+| 53 | harp | Musical instrument | To talk tediously (“harp on”); Irish person in US; coin tail (“harp”) | 🟢/🔴 Gain/Loss | 🟢/🔴 Gain/Loss | 🟢 Gain |
+| 54 | hickey | Unnamed gadget/object; bruise | Country person; penis; rural/unsophisticated | 🔴 Loss | 🟢/🔴 Gain/Loss | 🟢 Gain |
+| 55 | hike | Long walk/journey | Raise/increase; steal/trick; arrest; go away; a punch | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 56 | hive | Beehive; busy place | Vagina | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 57 | huff | Bad temper | Inhale chemicals to get high; low-grade/crappy; bully/annoy | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 58 | hun | — | Honey (term of endearment); derog. for German/Protestant in NI | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 59 | hut | Crude dwelling; shack | Someone’s open-house hangout; “over/finished”; a cell | ⚪ Stable | 🔴 Loss | 🔴 Loss |
+| 60 | mammy | Mother figure | Racial stereotype; “abundance” slang | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 61 | moose | Animal | Large person; unattractive woman; close friend | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 62 | mosquito | Biting insect | Cocaine; “mosquito” as a pesty person | 🔴 Loss | ⚪ Stable | 🟢 Gain |
+| 63 | mug | Cup; face; to rob | Fool; victim; face; to trick; to kiss | 🟢/🔴 Gain/Loss | 🟢 Gain | 🟢/🔴 Gain/Loss |
+| 64 | penguin | Flightless bird | Soulmate; nun; LSD drug | 🔴 Loss | 🟢/🔴 Gain/Loss | 🟢/🔴 Gain/Loss |
+| 65 | pitch | To throw; a sports field; the highness or lowness of a sound; a dark sticky tar | Persuasive sales talk; a street seller's spot; to tell a tale or speak persuasively; to pass counterfeit money | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 66 | player | Game participant | Womanizer; manipulator; dealer | 🟢 Gain | 🟢 Gain | ⚪ Stable |
+| 67 | posse | Legal group | Crew; gang; one’s circle of friends | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 68 | psych | Psychology | To trick; to mentally prepare; to intimidate | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 69 | putty | Linseed compound; polishing powder | Vagina; easily influenced person; money; poor-quality hash | 🔴 Loss | 🟢 Gain | 🟢 Gain |
+| 70 | quaker | Member of Religious Society of Friends; duck making a “quack” | Extremely dim person; a hard/long stool | ⚪ Stable | ⚪ Stable | ⚪ Stable |
+| 71 | rad | Radiation dose unit | Intensifier: excellent/extreme/very | 🟢 Gain | 🟢 Gain | 🔴 Loss |
+| 72 | ratchet | Tool mechanism | Unrefined woman; wild behavior; pistol | 🟢 Gain | 🟢 Gain | 🟢 Gain |
+| 73 | riff | Short repeated musical phrase | Personal style or variation; a joke or line; an argument; a rumour; to chatter, boast, complain or offend | 🟢 Gain | 🟢 Gain | 🟢/🔴 Gain/Loss |
+| 74 | rodent | Mammal of the order Rodentia (rats, mice, squirrels) | Insult for an unattractive, untrustworthy or unintelligent person | ⚪ Stable | ⚪ Stable | ⚪ Stable |
+| 75 | salty | Tasting of salt | Angry; bitter; crude language | ⚪ Stable | ⚪ Stable | ⚪ Stable |
+| 76 | scum | Layer of dirt | Worthless person; semen | ⚪ Stable | ⚪ Stable | ⚪ Stable |
+| 77 | sketch | Rough or unfinished drawing or draft; short comedy scene | Odd or ridiculous person; methamphetamine; risky or dangerous; the rules or situation; to slash with a knife | 🟢/🔴 Gain/Loss | 🟢/🔴 Gain/Loss | 🟢/🔴 Gain/Loss |
+| 78 | skinny | Very thin; tight-fitting (clothing); made with skimmed milk (coffee) | Confidential information; the truth; a street person of questionable character; a dime; a nude swim | 🟢/🔴 Gain/Loss | 🟢/🔴 Gain/Loss | 🟢/🔴 Gain/Loss |
+| 79 | spring | Season after winter; to leap or jump; a coiled metal device; a source of water | To release or escape from prison; to pay for something (“spring for”); to produce or reveal suddenly | 🟢 Gain | 🟢 Gain | 🟢 Gain |
 
 ### 📄 Citation
 
