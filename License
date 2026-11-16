@@ -1,0 +1,30 @@
+# BD-LSC Dataset — CC BY 4.0 License
+
+**The BD-LSC Dataset © 2026 by Afnan Mohammed Aloraini and co-authors is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).**
+
+License: https://creativecommons.org/licenses/by/4.0/
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+## Scope of the License
+
+The CC BY 4.0 license applies to the original contributions in this repository, including:
+
+- Original sense inventories, sense identifiers, and author-written sense descriptions.
+- Gold-standard sense-presence and sense-absence annotations for T1, T2, and T3.
+- Semantic-change labels (SA, SR, and NC).
+- Original annotation guidelines.
+
+## Third-Party Content
+
+The CC BY 4.0 license does **not** apply to third-party materials.
+
+- **CCOHA/COHA (T1 and T2):** Historical corpus contexts remain subject to the original corpus terms and copyright restrictions.
+- **Twitter/X (T3):** Original tweet content is not redistributed. Released Tweet IDs are subject to the applicable X/Twitter developer policies.
+- **Dictionary resources:** Oxford English Dictionary, Green's Dictionary of Slang, Online Slang Dictionary, and Urban Dictionary remain subject to their respective copyright and licensing terms.
+
+## Attribution
+
+Users who reuse or redistribute the licensed materials must provide appropriate credit, include a link to the CC BY 4.0 license, and indicate whether changes were made.
+
+If you use this dataset in academic research, please cite the BD-LSC paper.
